@@ -1,0 +1,5 @@
+openai==1.64.0
+pydantic==2.10.6
+fastapi
+uvicorn[standard]
+pandas
